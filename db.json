@@ -1,0 +1,27 @@
+
+{
+  "songs": [  
+   {  
+      "name":"Gif",
+      "photoURLString":"https:\/\/hddfhm.com\/images\/animated-clipart-freeware-6.gif",
+      "rating":2
+   },
+   {  
+      "name":"Guitar",
+      "photoURLString":"\/Users\/st21235\/Library\/Developer\/CoreSimulator\/Devices\/C5ACAC40-DDBB-4E59-8F8E-C104D8F7E926\/data\/Containers\/Bundle\/Application\/910CEB5A-666B-47DE-9384-BBE069E29B77\/MusicLover.app\/Images\/Guitar.jpeg",
+      "rating":4
+   },
+   {  
+      "name":"Electronic",
+      "photoURLString":"\/Users\/st21235\/Library\/Developer\/CoreSimulator\/Devices\/C5ACAC40-DDBB-4E59-8F8E-C104D8F7E926\/data\/Containers\/Bundle\/Application\/910CEB5A-666B-47DE-9384-BBE069E29B77\/MusicLover.app\/Images\/Electronic.jpeg",
+      "rating":4
+   }
+],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
